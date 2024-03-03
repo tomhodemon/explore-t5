@@ -1,0 +1,5 @@
+# @package _global_
+
+model:
+  sharedEnc: true
+  sharedDec: false
